@@ -1,24 +1,24 @@
 {
-"Title": "سلام عشقم 😍",
-"Description": "برای استفاده از برنامه و دسترسی به فیلترشکن‌های متصل بیشتر حتما عضو کانال تلگرامی ما شوید ❤️👇🏻",
-"Link": "tg://join?invite=uypllBUGgZljNGE0",
-"ColorWave": "#673AB7",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#7E57C2",
-"ColorBackGround": "#ffffff",
-"TitleGravity": "center",
-"MessageGravity": "center",
-"ColorMessage": "#ff323232",
-"ColorTitle": "#ff111111",
-"ColorBtn": "#ffffff",
-"ColorBtnBg": "#00a043",
-"ColorBtnCancell": "#ffffff",
-"ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "9392929155115",
-"ShowTime": "3",
-"Button": "  عضویت فوری  ",
-"ButtonCancell": " بعدا ",
-"Closure": "true",
-"Show": "on"
+  "Title": "❗️ اطلاعیه مهم ❗️",
+  "Description": "طبق خبرها یزودی اختلال شدیدی روی اینترنت اعمال میشه ، برای جلوگیری از قطع اتصال شما فورا عضو کانال تلگرامی تیم ما شوید 🙏❤️",
+  "Link": "tg://join?invite=vlwPQDutitRkMThk",
+  "ColorWave": "#00ffff",
+  "Color": "#ffa500",
+  "ColorWaveTwo": "#007cf7",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#000000",
+  "ColorTitle": "#000000",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "false",
+  "MessageID": "3602786700662416",
+  "ShowTime": "3",
+  "Button": " عضویت فوردی ",
+  "ButtonCancell": "",
+  "Closure": "true",
+  "Show": "on"
 }
