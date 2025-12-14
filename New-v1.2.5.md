@@ -1,24 +1,24 @@
 {
-  "Title": "❗️ اطلاعیه مهم ❗️",
-  "Description": "طبق خبرها یزودی اختلال شدیدی روی اینترنت اعمال میشه ، برای جلوگیری از قطع اتصال شما فورا عضو کانال تلگرامی تیم ما شوید 🙏❤️",
-  "Link": "tg://join?invite=vlwPQDutitRkMThk",
-  "ColorWave": "#00ffff",
-  "Color": "#ffa500",
-  "ColorWaveTwo": "#007cf7",
-  "ColorBackGround": "#ffffff",
-  "TitleGravity": "center",
-  "MessageGravity": "center",
-  "ColorMessage": "#000000",
-  "ColorTitle": "#000000",
-  "ColorBtn": "#ffffff",
-  "ColorBtnBg": "#00a043",
-  "ColorBtnCancell": "#ffffff",
-  "ColorBtnCancellBg": "#e90000",
-  "Cancellable": "false",
-  "MessageID": "3602786700662416",
-  "ShowTime": "3",
-  "Button": " عضویت فوردی ",
-  "ButtonCancell": "",
-  "Closure": "true",
-  "Show": "on"
+"Title": "❌ قطع اتصال شما ❌",
+"Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت اتصال شما قطع میشود 🙏🏻❤️",
+"Link": "tg://join?invite=RlyoAE9qv4E5OGQ0",
+"ColorWave": "#9933ff",
+"Color": "#FFA500",
+"ColorWaveTwo": "#b870ff",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "9261001337",
+"ShowTime": "3",
+"Button": " عضویت اجباری ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
 }
