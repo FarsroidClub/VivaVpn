@@ -1,24 +1,24 @@
 {
-"Title": "❌ قطع اتصال شما ❌",
-"Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت اتصال شما قطع میشود 🙏🏻❤️",
-"Link": "tg://join?invite=RlyoAE9qv4E5OGQ0",
-"ColorWave": "#6d41d2",
-"Color": "#FFA500",
-"ColorWaveTwo": "#9758e4",
-"ColorBackGround": "#ffffff",
-"TitleGravity": "center",
-"MessageGravity": "center",
-"ColorMessage": "#ff323232",
-"ColorTitle": "#ff111111",
-"ColorBtn": "#ffffff",
-"ColorBtnBg": "#00a043",
-"ColorBtnCancell": "#ffffff",
-"ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "9261001337",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
-"Closure": "true",
-"Show": "on"
+  "Title": "❌ اختلال نت ملی شروع شد ❌",
+  "Description": "اینترنتا داره ضعیف میشه ، ارزون ترین فیلترشکن تانل برای همه دستگاها و باحجم نامحدود رو دریافت کن ❤️👇🏻",
+  "Link": "https://t.me/GreenNetwoorkBot?start=free_Up",
+  "ColorWave": "#00E5FF",
+  "Color": "#00E5FF",
+  "ColorWaveTwo": "#006064",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#000000",
+  "ColorTitle": "#000000",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "false",
+  "MessageID": "3602782022416",
+  "ShowTime": "3",
+  "Button": " دریافت تست رایگان ",
+  "ButtonCancell": "",
+  "Closure": "true",
+  "Show": "on"
 }
